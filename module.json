@@ -1,0 +1,25 @@
+{
+  "id": "timaresh-spg-dice",
+  "title": "Timaresh - StartPlaying.Games Dice",
+  "description": "StartPlaying.Games Themed Dice",
+  "version": "1.2.0",
+  "readme": "",
+  "changelog": "",
+  "authors": [
+    {
+      "name": "Timaresh",
+      "flags": {}
+    }
+  ],
+  "scripts": [
+    "diceset.js"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "compatibility": {
+    "minimum": "0.7.9",
+    "verified": "11",
+    "maximum": "12"
+  }
+}
