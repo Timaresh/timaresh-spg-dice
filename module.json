@@ -2,7 +2,7 @@
   "id": "timaresh-spg-dice",
   "title": "Timaresh - StartPlaying.Games Dice",
   "description": "StartPlaying.Games Themed Dice",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "readme": "",
   "changelog": "",
   "authors": [
@@ -15,8 +15,8 @@
     "diceset.js"
   ],
   "url": "https://github.com/Timaresh/timaresh-spg-dice",
-  "manifest": "https://github.com/Timaresh/timaresh-spg-dice/releases/download/v1.1.0/module.json",
-  "download": "https://github.com/Timaresh/timaresh-spg-dice/releases/download/v1.1.0/timaresh-spg-dice.zip",
+  "manifest": "https://github.com/Timaresh/timaresh-spg-dice/releases/download/v1.2.0/module.json",
+  "download": "https://github.com/Timaresh/timaresh-spg-dice/releases/download/v1.2.0/timaresh-spg-dice.zip",
   "compatibility": {
     "minimum": "0.7.9",
     "verified": "11",
